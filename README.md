@@ -125,11 +125,11 @@
 </div>
 
 ###
-<a href="https://leetcode.com/your_username/">
-  <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=orange&logoColor=white&style=for-the-badge" height="25" alt="LeetCode logo" />
-</a>
-
-
+<h3 align="center">🐍 Snake Animation</h3>
+<p align="center">
+  <img src="https://github.com/himanshudhage/himanshudhage/blob/output/github-snake.svg#gh-light-mode-only" alt="Snake Animation Light Mode" />
+  <img src="https://github.com/himanshudhage/himanshudhage/blob/output/github-snake-dark.svg#gh-dark-mode-only" alt="Snake Animation Dark Mode" />
+</p>
 
 
 
