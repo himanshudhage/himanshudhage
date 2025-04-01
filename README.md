@@ -128,9 +128,6 @@
 <h2 align="center">🏆 Leetcode Profile</h2>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/himanshudhage?ext=contest" alt="LeetCode Stats" width="30%"/>
-  <a href="https://www.geeksforgeeks.org/user/himanshud6kcf">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-himanshud6kcf/-brightgreen" alt="GeeksforGeeks Profile" width="30%"/>
-  </a>
 </p>
 
 
