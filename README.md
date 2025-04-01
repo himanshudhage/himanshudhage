@@ -126,7 +126,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/himanshudhage/himanshudhage/output/snake.svg" alt="Snake animation" />
+<img src="https://media.giphy.com/media/xT0BKCFiZHcUyt6cFS/giphy.gif" alt="Snake animation" />
+
 
 
 
