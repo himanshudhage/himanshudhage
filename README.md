@@ -18,6 +18,27 @@
 
 <h1 align="center">HI👋,I'm Himanshu Dhage</h1>
 
+<h3 align="left">🌍 Connect with Me</h3>
+
+###
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/himanshu-dhage-6543b425a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/himanshu_dhage/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/himanshud6kcf/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+  <a href="https://www.codechef.com/users/himanshu_hd" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://www.instagram.com/himanshu_dhagge_01/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 ###
 <h3 align="left">👩‍💻  About Me</h3>
 <p align="left">
