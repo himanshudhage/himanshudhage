@@ -20,12 +20,10 @@
 
 ###
 <h3 align="left">👩‍💻  About Me</h3>
-###
-
 <p align="left">
   I'm Himanshu Dhage from India. I'm a passionate Software Developer and Competitive Programmer.<br><br>
-  - 🔭 I’m currently working on Web Development with React, Node.js, and MongoDB.<br>
-  - ⚡ In my free time, I enjoy solving problems on LeetCode, playing chess ♟️, and traveling ✈️.<br>
+  - 🔭 I’m currently working on Web Development with React, Node.js,Express and MongoDB.<br>
+  - ⚡ In my free time, I enjoy solving problems on LeetCode, playing chess ♟️, and Gaming ✈️.<br>
   - 📬 Feel free to connect with me for collaboration or if you want to chat about technology! 🚀
 </p>
 
