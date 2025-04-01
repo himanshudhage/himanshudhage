@@ -125,8 +125,7 @@
 </div>
 
 ###
-
-<img src="https://streak-stats.demolab.com?user=himanshudhage&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="GitHub Streak Stats" height="220" />
+<img src="https://media.giphy.com/media/xT0BKCFiZHcUyt6cFS/giphy.gif" alt="Snake animation" />
 
 
 
