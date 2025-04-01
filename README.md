@@ -125,12 +125,13 @@
 </div>
 
 ###
-<h3 align="center">🐍 Snake Animation</h3>
+<h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-  <img src="https://github.com/himanshudhage/himanshudhage/blob/output/github-snake.svg#gh-light-mode-only" alt="Snake Animation Light Mode" />
-  <img src="https://github.com/himanshudhage/himanshudhage/blob/output/github-snake-dark.svg#gh-dark-mode-only" alt="Snake Animation Dark Mode" />
+  <a href="https://linkedin.com/in/shubhamshinde6762" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/shindeshubham08" target="blank"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" /></a>
+  <a href="https://www.codechef.com/users/shubham6710" target="blank"><img src="https://img.shields.io/badge/CodeChef-orange?logo=codechef&logoColor=white&style=for-the-badge" alt="CodeChef" /></a>
+  <a href="https://leetcode.com/shubham6762" target="blank"><img src="https://img.shields.io/badge/LeetCode-gray?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" /></a>
+  <a href="https://codeforces.com/profile/shubham6762" target="blank"><img src="https://img.shields.io/badge/Codeforces-blue?logo=codeforces&logoColor=white&style=for-the-badge" alt="Codeforces" /></a>
 </p>
-
-
 
 ###
