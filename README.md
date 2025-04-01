@@ -125,7 +125,16 @@
 </div>
 
 ###
-<img src="https://media.giphy.com/media/xT0BKCFiZHcUyt6cFS/giphy.gif" alt="Snake animation" />
+<h1 align="center">Hey there 👋</h1>
+
+<h3 align="center">Check out my LeetCode profile:</h3>
+
+<div align="center">
+  <a href="https://leetcode.com/u/himanshu_dhage/">
+    <img src="https://img.shields.io/badge/LeetCode-himanshu_dhage-orange" alt="LeetCode Badge" />
+  </a>
+</div>
+
 
 
 
