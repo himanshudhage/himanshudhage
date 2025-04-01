@@ -125,13 +125,10 @@
 </div>
 
 ###
-<h3 align="center">🌐 Connect with Me</h3>
+<h2 align="center">🏆 Competitive Programming</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/shubhamshinde6762" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/shindeshubham08" target="blank"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" /></a>
-  <a href="https://www.codechef.com/users/shubham6710" target="blank"><img src="https://img.shields.io/badge/CodeChef-orange?logo=codechef&logoColor=white&style=for-the-badge" alt="CodeChef" /></a>
-  <a href="https://leetcode.com/shubham6762" target="blank"><img src="https://img.shields.io/badge/LeetCode-gray?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" /></a>
-  <a href="https://codeforces.com/profile/shubham6762" target="blank"><img src="https://img.shields.io/badge/Codeforces-blue?logo=codeforces&logoColor=white&style=for-the-badge" alt="Codeforces" /></a>
+  <img src="https://leetcard.jacoblin.cool/himanshudhage?ext=contest" alt="LeetCode Stats" width="45%"/>
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=himanshudhage" alt="Codeforces Stats" width="45%"/>
 </p>
 
 ###
