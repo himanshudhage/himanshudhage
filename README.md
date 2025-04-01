@@ -8,7 +8,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=himanshudhage.himanshudhage&"  />
 </div>
 
-<h3 align="left">🌍 Connect with Me</h3>
+
 
 ###
 
