@@ -125,20 +125,9 @@
 </div>
 
 ###
-<h1 align="center">Hey there 👋</h1>
-
-<h3 align="center">Check out my LeetCode profile:</h3>
-
-<div align="center">
-  <a href="https://leetcode.com/u/himanshu_dhage/">
-    <img src="https://img.shields.io/badge/LeetCode-himanshu_dhage-orange" alt="LeetCode Badge" />
-  </a>
-</div>
-
-<a href="https://leetcode.com/u/himanshu_dhage/">
-  <img src="https://img.shields.io/badge/LeetCode-himanshu_dhage-orange" alt="LeetCode Badge" />
+<a href="https://leetcode.com/your_username/">
+  <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=orange&logoColor=white&style=for-the-badge" height="25" alt="LeetCode logo" />
 </a>
-
 
 
 
