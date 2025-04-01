@@ -16,14 +16,14 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=himanshudhage.himanshudhage&"  />
 </div>
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">HI👋,I'm Himanshu Dhage</h1>
 
 ###
 <h3 align="left">👩‍💻  About Me</h3>
 ###
 
 <p align="left">
-  I'm **Himanshu Dhage** from **India** 🇮🇳. I'm a passionate Software Developer and Competitive Programmer.<br><br>
+  I'm Himanshu Dhage from India. I'm a passionate Software Developer and Competitive Programmer.<br><br>
   - 🔭 I’m currently working on Web Development with React, Node.js, and MongoDB.<br>
   - ⚡ In my free time, I enjoy solving problems on LeetCode, playing chess ♟️, and traveling ✈️.<br>
   - 📬 Feel free to connect with me for collaboration or if you want to chat about technology! 🚀
