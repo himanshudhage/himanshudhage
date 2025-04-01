@@ -127,8 +127,7 @@
 ###
 <h2 align="center">🏆 Competitive Programming</h2>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/himanshudhage?ext=contest" alt="LeetCode Stats" width="45%"/>
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=himanshudhage" alt="Codeforces Stats" width="45%"/>
+  <img src="https://leetcard.jacoblin.cool/himanshu_dhage?ext=contest" alt="LeetCode Stats" width="45%"/>
 </p>
 
 ###
