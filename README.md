@@ -126,7 +126,8 @@
 
 ###
 
-<img src="https://github.com/himanshudhage/himanshudhage/raw/output/github-contribution-snake.svg" alt="GitHub Snake Animation" />
+<img src="https://streak-stats.demolab.com?user=himanshudhage&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="GitHub Streak Stats" height="220" />
+
 
 
 
