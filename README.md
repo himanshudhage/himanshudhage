@@ -129,7 +129,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
-###
+
 <h2 align="center">🏆 Leetcode Profile</h2>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/himanshu_dhage?ext=contest" alt="LeetCode Stats" width="30%"/>
