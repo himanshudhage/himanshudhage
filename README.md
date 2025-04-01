@@ -25,9 +25,8 @@
 ###
 
 <p align="left">
-  I'm **Himanshu Dhage** from **India** 🇮🇳. I'm a passionate **Software Developer** and **Competitive Programmer**.<br><br>
-  - 🔭 I’m currently working on **Web Development** with **React**, **Node.js**, and **MongoDB**.<br>
-  - 📚 I'm currently learning **Machine Learning** 🤖 and exploring **Cloud Technologies** ☁️.<br>
+  I'm **Himanshu Dhage** from **India** 🇮🇳. I'm a passionate Software Developer and **Competitive Programmer**.<br><br>
+  - 🔭 I’m currently working on Web Development with React, Node.js, and MongoDB.<br>
   - ⚡ In my free time, I enjoy **solving problems on LeetCode**, **playing chess** ♟️, and **traveling** ✈️.<br>
   - 📬 Feel free to connect with me for collaboration or if you want to chat about technology! 🚀
 </p>
