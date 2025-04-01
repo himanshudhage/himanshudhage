@@ -125,9 +125,19 @@
 </div>
 
 ###
-<h2 align="center">🏆 Competitive Programming</h2>
+<h2 align="center">🏆 LeetCode Badges</h2>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/himanshu_dhage?ext=contest" alt="LeetCode Stats" width="45%"/>
+  <img src="https://img.shields.io/badge/LeetCode-Profile-blue?logo=leetcode&logoColor=white" alt="LeetCode Profile" width="30%"/>
+  <a href="https://leetcode.com/u/himanshu_dhage/">
+    <img src="https://leetcard.jacoblin.cool/himanshudhage?ext=contest" alt="LeetCode Stats" width="45%"/>
+  </a>
+  <a href="https://leetcode.com/u/himanshu_dhage/">
+    <img src="https://img.shields.io/badge/LeetCode-Solved%20Problems-orange?logo=leetcode&logoColor=white" alt="LeetCode Solved Problems Badge" />
+  </a>
+  <a href="https://leetcode.com/u/himanshu_dhage/">
+    <img src="https://img.shields.io/badge/LeetCode-Contest%20Rating-red?logo=leetcode&logoColor=white" alt="LeetCode Contest Badge" />
+  </a>
 </p>
+
 
 ###
