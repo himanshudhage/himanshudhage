@@ -135,6 +135,9 @@
   </a>
 </div>
 
+<a href="https://leetcode.com/u/himanshu_dhage/">
+  <img src="https://img.shields.io/badge/LeetCode-himanshu_dhage-orange" alt="LeetCode Badge" />
+</a>
 
 
 
