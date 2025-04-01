@@ -127,7 +127,7 @@
 ###
 <h2 align="center">🏆 Leetcode Profile</h2>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/himanshudhage?ext=contest" alt="LeetCode Stats" width="30%"/>
+  <img src="https://leetcard.jacoblin.cool/himanshu_dhage?ext=contest" alt="LeetCode Stats" width="30%"/>
 </p>
 
 
