@@ -16,8 +16,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=himanshudhage.himanshudhage&"  />
 </div>
 
-<h1 align="center">HI👋,I'm Himanshu Dhage</h1>
-
 <h3 align="left">🌍 Connect with Me</h3>
 
 ###
@@ -39,7 +37,8 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-###
+<h1 align="center">HI👋,I'm Himanshu Dhage</h1>
+
 <h3 align="left">👩‍💻  About Me</h3>
 <p align="left">
   I'm Himanshu Dhage from India. I'm a passionate Software Developer and Competitive Programmer.<br><br>
