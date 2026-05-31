@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is himanshu and I'm a Engineering Student.</h2>
+<h2 align="left">Hi 👋! My name is Himanshu and I'm an Engineering Student.</h2>
 
 <h3 align="center">📊 My GitHub Activity</h3>
 <div align="center">
@@ -8,11 +8,10 @@
 ###
 
 <div align=center>
-  <!-- <img width=390 src="https://streak-stats.demolab.com/?user=gakshatb&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=gakshatb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gakshatb&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <!-- <img width=390 src="https://streak-stats.demolab.com/?user=himanshudhage&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=himanshudhage&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshudhage&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
 
 ###
 
@@ -71,70 +70,50 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gakshatb/" target="_blank">
+  <a href="https://www.linkedin.com/in/himanshu-dhage-6543b425a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/gakshatb/" target="_blank">
+
+  <a href="https://leetcode.com/u/himanshu_dhage/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/gakshqqjo/" target="_blank">
+
+  <a href="https://www.geeksforgeeks.org/profile/himanshud6kcf/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
-  <a href="https://www.instagram.com/gakshatb.exe/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+
+  <a href="https://www.codechef.com/users/himanshu_hd" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
-  <a href="https://www.youtube.com/@trytofeelit" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/gakshatb" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-19aa59?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank logo"  />
-  </a>
-  <a href="https://wa.me/6397906947" target="_blank">
-    <img src="https://img.shields.io/badge/Whatsapp-25d366?style=for-the-badge&logo=Whatsapp&logoColor=white" alt="whatsapp logo"  />
+
+  <a href="https://github.com/himanshudhage" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
 ###
+
 <!-- Final Row: Snake and LeetCode side-by-side -->
 <div align="center">
   <table>
     <tr>
       <td width=75% height=200>
         <h4>🔥 My Streaks: </h4>
-        <img src="https://raw.githubusercontent.com/gakshatb/gakshatb/output/snake.svg" />
-        <!-- <img src="https://raw.githubusercontent.com/gakshatb/gakshatb/output/snake.svg" alt="Snake animation"/> -->
+        <img src="https://raw.githubusercontent.com/himanshudhage/himanshudhage/output/snake.svg" />
       </td>
       <td>
         <h4>🏆 Leetcode Profile</h4>
-        <img src="https://leetcard.jacoblin.cool/gakshatb?ext=contest" alt="LeetCode Stats" height="150" width=100%/>
+        <img src="https://leetcard.jacoblin.cool/himanshu_dhage?ext=contest" alt="LeetCode Stats" height="150" width=100%/>
       </td>
     </tr>
   </table>
-</div>
-
-
-<div align="center"> 
-  <h2 align="center">Leetcode Badges<h2>  
-  <p align="center">
-    <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="100" width="100" /></a>
-    <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="100" width="100" /></a>
-    <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-04.gif" alt="jyot" height="100" width="100" /></a>
-    <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-05.gif" alt="jyot" height="100" width="100" /></a>
-    <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" alt="jyot" height="100" width="100" /></a>
-    <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" alt="jyot" height="100" width="100" /></a>
-    <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="100" width="100" /></a>
-    <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="100" width="100" /></a>
-    <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="100" width="100" /></a>
-    <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" alt="jyot" height="100" width="100" /></a>
-    <a href="https://leetcode.com/gakshatb/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2025-100.gif" alt="jyot" height="100" width="100" /></a>
-  </p>
 </div>
 
 <br clear="both">
 
 <h3 align="center">🏅 My Holopin Badges</h3>
 <div align="center">
-  <a href="https://holopin.io/@gakshatb">
-    <img src="https://holopin.me/gakshatb" alt="@gakshatb's Holopin Badges" width="95%" />
+  <a href="https://holopin.io/@himanshudhage">
+    <img src="https://holopin.me/himanshudhage" alt="@himanshudhage's Holopin Badges" width="95%" />
   </a>
 </div>
