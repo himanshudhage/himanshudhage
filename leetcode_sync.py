@@ -3,7 +3,7 @@ import datetime
 import subprocess
 import json
 
-USERNAME = "himanshudhage"
+USERNAME = "himanshu_dhage"
 
 query = """
 query userProfileCalendar($username: String!) {
