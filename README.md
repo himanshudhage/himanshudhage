@@ -70,7 +70,7 @@
     <tr>
       <td width="60%" align="center" valign="top">
         <h4>🔥 My Streaks:</h4>
-        <img src="https://raw.githubusercontent.com/himanshudhage/himanshudhage/output/snake.svg" alt="Snake Animation" width="100%" />
+       <img src="https://raw.githubusercontent.com/himanshudhage/himanshudhage/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
       </td>
       <td width="40%" align="center" valign="top">
         <h4>🏆 LeetCode Profile</h4>
