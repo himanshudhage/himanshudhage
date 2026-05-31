@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Akshat and I'm a Engineering Student.</h2>
+<h2 align="left">Hi 👋! My name is himanshu and I'm a Engineering Student.</h2>
 
 <h3 align="center">📊 My GitHub Activity</h3>
 <div align="center">
